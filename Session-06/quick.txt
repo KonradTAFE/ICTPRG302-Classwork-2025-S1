@@ -1,9 +1,8 @@
 The
-Quick
-Brown
-Fox
-Jumps
-Over
-The
-Lazy
-Dog
+quick
+brown
+fox
+jumped
+over
+the lazy
+dog
